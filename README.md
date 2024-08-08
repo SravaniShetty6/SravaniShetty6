@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SravaniShetty6
 - 👀 I’m interested in full stack developer
 - 🌱 I’m currently learning Python Full Stack Developer
-- - 💞️ I’m looking to collaborate on Frontend developer, Backend developer
+- 💞️ I’m looking to collaborate on Frontend developer, Backend developer
 - 📫 How to reach me sravanishetty062001@gmail.com
 
 <!---
